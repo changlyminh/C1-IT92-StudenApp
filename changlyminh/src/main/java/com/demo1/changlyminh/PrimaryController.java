@@ -10,7 +10,7 @@ public class PrimaryController {
         App.setRoot("secondary");
     }
     
-    private void checkHandler(int event){
+    private void studentApp(int event){
         
     }
 }
