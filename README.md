@@ -1,2 +1,2 @@
-# C1-IT92-StudenApp
-my app demo
+# IT92-C1-EnglishApp
+Demo môn Kiểm thử phần mềm
